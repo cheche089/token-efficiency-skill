@@ -1,0 +1,8 @@
+﻿interface:
+  display_name: "Token Efficiency"
+  short_description: "Reduce token waste with caching, compression, and pruning."
+  default_prompt: "Use $token-efficiency to minimize token consumption and prevent context bloat."
+  brand_color: "#059669"
+
+policy:
+  allow_implicit_invocation: true
